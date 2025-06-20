@@ -36,3 +36,5 @@ pandas, numpy, scikit-learn, statsmodels, matplotlib, seaborn
 📌 Dataset
 UCI Forest Fires Dataset
 https://archive.ics.uci.edu/ml/datasets/forest+fires
+
+By Alejandro Silva
